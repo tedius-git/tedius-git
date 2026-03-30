@@ -51,11 +51,6 @@
       <img src="header-dark/repos.svg">
     </picture>
   </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-dark/follow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header-light/follow.svg">
-    <img src="header-dark/follow.svg">
-  </picture>
   <a href="mailto:diegominasantos@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="header-dark/contact.svg">
@@ -63,6 +58,11 @@
       <img src="header-dark/contact.svg">
     </picture>
   </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark/follow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header-light/follow.svg">
+    <img src="header-dark/follow.svg">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-dark/nvim.svg">
     <source media="(prefers-color-scheme: light)" srcset="header-light/nvim.svg">
