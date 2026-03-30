@@ -10,7 +10,7 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         .nvim {
           width: 600px; height: 400px;
-          background: #e0e2ea;
+          background: none;
           font-family: 'JetBrains Mono', monospace;
           font-size: 12px;
           color: #2d2f34;
