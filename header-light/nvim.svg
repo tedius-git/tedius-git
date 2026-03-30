@@ -32,6 +32,11 @@
           line-height: 16px;
           user-select: none;
         }
+        .startup {
+          font-family: 'JetBrains Mono', monospace;
+          line-height: 16px;
+          width: 360px;
+        }
         .line { white-space: pre; text-align: left; }
         .key   { color: #5F8299; }
       </style>
