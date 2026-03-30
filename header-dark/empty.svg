@@ -1,0 +1,25 @@
+<svg fill="none" viewBox="0 0 600 16" width="600" height="16" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .nvim {
+          width: 600px; height: 16px;
+          background: none;
+          display: flex;
+          flex-direction: column;
+          overflow: hidden;
+        }
+        .main {
+          flex: 1;
+          position: relative;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+      </style>
+      <div class="nvim">
+      </div>
+    </div>
+  </foreignObject>
+</svg>
