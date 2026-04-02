@@ -25,16 +25,27 @@
           align-items: center;
           justify-content: center;
         }
+        .tildes {
+          position: absolute;
+          left: 6px; top: 0px; bottom: 0;
+          color: #333;
+          line-height: 16px;
+          user-select: none;
+        }
         .startup {
           font-family: 'JetBrains Mono', monospace;
           line-height: 16px;
           width: 360px;
         }
         .line { white-space: pre; text-align: left; }
-        .key   { color: #9fd8ff; }
+        .key   { color: #7cdbdb; }
+        .cmd   { color: #9acaec; }
       </style>
       <div class="nvim">
         <div class="main">
+          <div class="tildes">
+          ~<br/><br/>
+          </div>
           <div class="startup">
             <div class="line"><span class="cmd">  type  :web</span><span class="key">&lt;Enter&gt;</span><span class="muted">         to see my web page</span></div>
           </div>

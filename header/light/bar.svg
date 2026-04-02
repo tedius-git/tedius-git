@@ -13,7 +13,7 @@
           background: none;
           font-family: 'JetBrains Mono', monospace;
           font-size: 12px;
-          color: #ffffff;
+          color: #a0dcab;
           display: flex;
           flex-direction: column;
           overflow: hidden;
@@ -36,18 +36,15 @@
           font-family: 'JetBrains Mono', monospace;
           line-height: 16px;
           width: 360px;
+          text-align: center;
         }
-        .line { white-space: pre; text-align: left; }
-        .key   { color: #7cdbdb; }
-        .cmd   { color: #9acaec; }
+        .line { white-space: pre; text-align: center; color: #444; }
       </style>
       <div class="nvim">
         <div class="main">
-          <div class="tildes">
-          ~<br/><br/>
-          </div>
+          <div class="tildes">~</div>
           <div class="startup">
-            <div class="line"><span class="cmd">  type  :q</span><span class="key">&lt;Enter&gt;</span><span class="muted">           to exit nvim btw</span></div>
+            <div class="line">──────────────────────────────────────────────────</div>
           </div>
         </div>
       </div>

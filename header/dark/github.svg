@@ -25,6 +25,13 @@
           align-items: center;
           justify-content: center;
         }
+        .tildes {
+          position: absolute;
+          left: 6px; top: 0px; bottom: 0;
+          color: #333;
+          line-height: 16px;
+          user-select: none;
+        }
         .startup {
           font-family: 'JetBrains Mono', monospace;
           line-height: 16px;
@@ -35,6 +42,9 @@
       </style>
       <div class="nvim">
         <div class="main">
+          <div class="tildes">
+          ~<br/><br/>
+          </div>
           <div class="startup">
             <div class="line c"><span class="url">github.com/tedius-git</span></div>
           </div>

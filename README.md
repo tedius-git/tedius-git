@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty-tilde.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty-tilde.svg">
-    <img src="header/dark/empty-tilde.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
+    <img src="header/dark/empty.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
@@ -10,24 +10,49 @@
     <img src="header/dark/empty.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty-tilde.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty-tilde.svg">
-    <img src="header/dark/empty-tilde.svg">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
     <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
     <img src="header/dark/empty.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty-tilde.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty-tilde.svg">
-    <img src="header/dark/empty-tilde.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/t-bar.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/t-bar.svg">
+    <img src="header/dark/t-bar.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/t-stem.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/t-stem.svg">
+    <img src="header/dark/t-stem.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/t-stem.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/t-stem.svg">
+    <img src="header/dark/t-stem.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/t-stem.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/t-stem.svg">
+    <img src="header/dark/t-stem.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/t-stem.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/t-stem.svg">
+    <img src="header/dark/t-stem.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
+    <img src="header/dark/empty.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/title.svg">
     <source media="(prefers-color-scheme: light)" srcset="header/light/title.svg">
     <img src="header/dark/title.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/bar.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/bar.svg">
+    <img src="header/dark/bar.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/sub.svg">
@@ -40,9 +65,9 @@
     <img src="header/dark/github.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty-tilde.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty-tilde.svg">
-    <img src="header/dark/empty-tilde.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/bar.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/bar.svg">
+    <img src="header/dark/bar.svg">
   </picture>
   <a href="https://github.com/tedius-git?tab=repositories">
     <picture>
@@ -71,7 +96,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
     <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
-    <img src="header/dark/empty.svg">
+    <img src="header/dark/bar.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/visit.svg">
@@ -84,9 +109,9 @@
     <img src="header/dark/web.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty-tilde.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty-tilde.svg">
-    <img src="header/dark/empty-tilde.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
+    <img src="header/dark/empty.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
@@ -94,9 +119,9 @@
     <img src="header/dark/empty.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty-tilde.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty-tilde.svg">
-    <img src="header/dark/empty-tilde.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
+    <img src="header/dark/empty.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
@@ -104,9 +129,9 @@
     <img src="header/dark/empty.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty-tilde.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty-tilde.svg">
-    <img src="header/dark/empty-tilde.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
+    <img src="header/dark/empty.svg">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">

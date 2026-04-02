@@ -38,7 +38,8 @@
           width: 360px;
         }
         .line { white-space: pre; text-align: left; }
-        .key   { color: #9fd8ff; }
+        .key   { color: #7cdbdb; }
+        .cmd   { color: #9acaec; }
       </style>
       <div class="nvim">
         <div class="main">
