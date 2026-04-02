@@ -35,16 +35,6 @@
     <img src="header/dark/t-stem.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/t-stem.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/t-stem.svg">
-    <img src="header/dark/t-stem.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
-    <img src="header/dark/empty.svg">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/title.svg">
     <source media="(prefers-color-scheme: light)" srcset="header/light/title.svg">
     <img src="header/dark/title.svg">
@@ -94,8 +84,8 @@
     <img src="header/dark/nvim.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
-    <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="header/dark/bar.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header/light/bar.svg">
     <img src="header/dark/bar.svg">
   </picture>
   <picture>
