@@ -38,7 +38,7 @@
           text-align: center;
         }
         .line { white-space: pre; text-align: center; }
-        .a { color: #7cdbdb; }
+        .a { color: #007373; }
         .b { color: #105f31; }
       </style>
       <div class="nvim">
