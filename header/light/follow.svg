@@ -47,7 +47,7 @@
           ~<br/><br/>
           </div>
           <div class="startup">
-            <div class="line"><span class="cmd">  type  :follow</span><span class="key">&lt;Enter&gt;</span><span class="muted">      to stay updated</span></div>
+            <div class="line">  type  <span class="cmd">:follow</span><span class="key">&lt;Enter&gt;</span><span class="muted">      to stay updated</span></div>
           </div>
         </div>
       </div>

@@ -47,7 +47,7 @@
           ~<br/><br/>
           </div>
           <div class="startup">
-            <div class="line"><span class="cmd">  type  :web</span><span class="key">&lt;Enter&gt;</span><span class="muted">         to see my web page</span></div>
+            <div class="line">  type  <span class="cmd">:web</span><span class="key">&lt;Enter&gt;</span><span class="muted">         to see my web page</span></div>
           </div>
         </div>
       </div>

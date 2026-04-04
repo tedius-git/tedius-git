@@ -47,7 +47,7 @@
           ~<br/><br/>
           </div>
           <div class="startup">
-            <div class="line"><span class="cmd">  type  :q</span><span class="key">&lt;Enter&gt;</span><span class="muted">           to exit nvim btw</span></div>
+            <div class="line">  type  <span class="cmd">:q</span><span class="key">&lt;Enter&gt;</span><span class="muted">           to exit nvim btw</span></div>
           </div>
         </div>
       </div>

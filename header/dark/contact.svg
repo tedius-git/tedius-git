@@ -47,7 +47,7 @@
           ~<br/><br/>
           </div>
           <div class="startup">
-            <div class="line"><span class="cmd">  type  :contact</span><span class="key">&lt;Enter&gt;</span><span class="muted">     to get in touch</span></div>
+            <div class="line">  type  <span class="cmd">:contact</span><span class="key">&lt;Enter&gt;</span><span class="muted">     to get in touch</span></div>
           </div>
         </div>
       </div>

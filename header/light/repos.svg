@@ -47,7 +47,7 @@
           ~<br/><br/>
           </div>
           <div class="startup">
-            <div class="line"><span class="cmd">  type  :repos</span><span class="key">&lt;Enter&gt;</span><span class="muted">       to browse my work</span></div>
+            <div class="line">  type  <span class="cmd">:repos</span><span class="key">&lt;Enter&gt;</span><span class="muted">       to browse my work</span></div>
           </div>
         </div>
       </div>
