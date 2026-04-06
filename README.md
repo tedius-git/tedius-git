@@ -93,11 +93,13 @@
     <source media="(prefers-color-scheme: light)" srcset="header/light/visit.svg">
     <img src="header/dark/visit.svg">
   </picture>
+  <a href="https://tedius-git.github.io/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/web.svg">
     <source media="(prefers-color-scheme: light)" srcset="header/light/web.svg">
     <img src="header/dark/web.svg">
   </picture>
+  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header/dark/empty.svg">
     <source media="(prefers-color-scheme: light)" srcset="header/light/empty.svg">
